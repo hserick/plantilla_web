@@ -1,0 +1,29 @@
+/*
+Desarrollador: Ing. Erick René Martínez Segundo.
+*/
+/* 
+    Created on : 19/10/2016, 10:16:54 AM
+    Author     : erick.martinez
+*/
+
+/* Boton TOPE tomado de: http://todoprogramacion.com.ve/articulos/jquery/boton-para-ir-arriba-con-jquery */
+            .scroll-top {
+                width: 40px;
+                height: 40px;
+                opacity: 0.3;
+                position: fixed;
+                bottom: 50px;
+                right: 30px;
+                display: none;
+                text-indent: -9999px;
+                z-index: 1000;
+                background: url('visual/img/top.png') no-repeat;
+            }
+            .scroll-top:hover {
+                opacity: 0.8;
+                -webkit-transition: 0.3s all;
+                -moz-transition: 0.3s all;
+                -o-transition: 0.3s all;
+                -ms-transition: 0.3s all;
+                transition: 0.3s all;
+            }
