@@ -18,7 +18,7 @@
         }
         ?>
         <meta charset="UTF-8">
-        <title>Conciliación de cheques</title>
+        <title>TÍTULO DE PAGINA</title>
         <!--Import materialize.css-->
         <link href="visual/css/materialize.min.css" rel="stylesheet" type="text/css" media="screen,projection"/>
         <!-- Iconos -->
@@ -36,13 +36,13 @@
                 <div class="col s12">
                     <div class="card horizontal">
                         <div class="card-image">
-                            <img src="visual/img/LOGO_PROFEPA.png" alt="Logo PROFEPA"/>
+                            <img src="visual/img/img.jpg" alt="Logotipo"/>
                         </div>
                         <div class="card-stacked">
                             <div class="card-content blue lighten-2 white-text text-darken-3">
-                                <h3>Conciliación de cheques</h3>
+                                <h3>Titulo sitio web</h3>
                                 <div class="divider"></div>
-                                <div class="flow-text">Reporte de cheques creados en el periodo especificado</div>
+                                <div class="flow-text">Descripción breve del sitio web que se esta construyendo</div>
                             </div>
                         </div>
                     </div>
